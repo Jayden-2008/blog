@@ -4,14 +4,22 @@
 
 <h2>Come with me on this exploration to becoming a writer</h2>
 
+<h1> Before we begin... who am I? My name is Jayden Bethune and this blog consists of my summer of 2025.
+
 <img src="/blog/images/jayden.jpeg"> 
 
 <h1>A Summer to Remember: Growth, Goals, and Good Times</h1>
 
-This summer was definitely one for the books. I got to do a little bit of everything. Over the duration of the summer, I traveled, worked, planned for the future, and even grew my social media a bit.
-One of the best parts was taking a trip to North Carolina with my girlfriend and my grandpa. It was honestly unforgettable. We had a great time exploring, spending quality time together, and just making memories. It was the kind of trip that sticks with you.
+<h3>This summer was definitely one for the books. I got to do a little bit of everything. Over the duration of the summer, I traveled, worked, planned for the future, and even grew my social media a bit.
+One of the best parts was taking a trip to North Carolina with my girlfriend and my grandpa. It was honestly unforgettable. We had a great time exploring, spending quality time together, and just making memories. It was the kind of trip that sticks with you. </h3>
 
-<img src="/blog/images/me_and_bae.jpeg">
+<img src="/blog/images/love.jpeg">
+
+<h3> One part of the trip that still sticks with me to this day was when my girlfriend found a life hack on social media that consisted on making cows follow the sound of jazz music. It was a moment full of laughs and shock and seeing the cows come towards us was definitely a memory that will be stuck with me for a long time.
+
+<img src = "/blog/images/cows.jpeg">
+
+
 
 When I wasn’t traveling, I was working at a store called Bargain Hunters. It was a solid experience my first real job where I had to show up, deal with customers, and just learn how things run in a workplace. It taught me a lot about responsibility and how to handle myself in a work setting.
 I also started looking into colleges, which felt like a big step. It’s kind of crazy to think about how close I am to that next stage of life, but it felt good to start planning and thinking about where I want to go and what I want to do.
