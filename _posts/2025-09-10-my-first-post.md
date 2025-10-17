@@ -1,15 +1,18 @@
 
 
-This is my first blog post on my blog.
+<h1>This is my first blog post on my blog.</h1>
 
-Come with me on this exploration to becoming a writer
+<h2>Come with me on this exploration to becoming a writer</h2>
 
-<img src="/blog/images/jayden.jpeg" alt="Picture of me"> 
+<img src="/blog/images/jayden.jpeg"> 
 
-A Summer to Remember: Growth, Goals, and Good Times
+<h1>A Summer to Remember: Growth, Goals, and Good Times</h1>
 
 This summer was definitely one for the books. I got to do a little bit of everything. Over the duration of the summer, I traveled, worked, planned for the future, and even grew my social media a bit.
 One of the best parts was taking a trip to North Carolina with my girlfriend and my grandpa. It was honestly unforgettable. We had a great time exploring, spending quality time together, and just making memories. It was the kind of trip that sticks with you.
+
+<img src="/blog/images/me_and_bae.jpeg">
+
 When I wasn’t traveling, I was working at a store called Bargain Hunters. It was a solid experience my first real job where I had to show up, deal with customers, and just learn how things run in a workplace. It taught me a lot about responsibility and how to handle myself in a work setting.
 I also started looking into colleges, which felt like a big step. It’s kind of crazy to think about how close I am to that next stage of life, but it felt good to start planning and thinking about where I want to go and what I want to do.
 Oh, and on a fun note—I’ve been growing my TikTok following too. It’s been cool to see people enjoying the content I put out. It started as just a fun thing, but now I’m starting to take it a bit more seriously and seeing where it could go.
